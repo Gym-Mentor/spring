@@ -14,7 +14,8 @@
   - @value 어노테이션으로 설정하지 않음
 
 결과
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7be539d0-b97d-4f87-8cad-0086e1b4b38b)
+
 
 
 참고
