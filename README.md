@@ -21,3 +21,4 @@
 - https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerMapping.html
 - https://porolog.tistory.com/m/39
 - https://www.oracle.com/technical-resources/articles/java/javareflection.html
+- https://hackernoon.com/creating-custom-controller-annotation-with-spring-boot
