@@ -14,7 +14,8 @@
   - @value 어노테이션으로 설정하지 않음
 
 결과
-![img.png](img.png)
+![Uploading image.png…]()
+
 
 참고
 - https://pplenty.tistory.com/7
